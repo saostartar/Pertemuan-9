@@ -1,0 +1,13 @@
+GET http://localhost:4000/products
+
+###
+GET http://localhost:4000/products2
+
+###
+POST GET http://localhost:4000/products
+
+###
+PATCH http://localhost:4000/products/2
+
+###
+DELETE http://localhost:4000/products/2
